@@ -71,6 +71,6 @@ open index.html
 
 
 📬 Connect
-💼 LinkedIn: linkedin.com/in/yourprofile
+💼 LinkedIn: linkedin.com/in/ajaykuraparthi
 
-🐙 GitHub: github.com/yourusername
+🐙 GitHub: github.com/ajaykuraparthi
