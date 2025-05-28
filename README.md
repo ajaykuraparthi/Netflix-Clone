@@ -4,7 +4,9 @@ Welcome to the **Netflix Clone** – a fully responsive, feature-rich web applic
 
 ## 🚀 Tech Stack
 
-- 💻 **Frontend:** React.js ⚛️ + Tailwind CSS 💨  
+- 💻 **Frontend:** - 🧱 **HTML5** – Semantic Structure  
+- 🎨 **CSS3** – Flexbox, Grid, Animations  
+- 💡 **JavaScript** – Interactivity & UI Effects    
 - 🔥 **Backend:** Firebase 🔥 (Authentication + Firestore)  
 - 📦 **Database:** Firebase Firestore  
 - 📺 **Media:** TMDB API 🎞️  
@@ -23,65 +25,52 @@ Welcome to the **Netflix Clone** – a fully responsive, feature-rich web applic
 
 ---
 
-## 🛠️ Installation
+## 📁 Folder Structure
 
-```bash
-git clone https://github.com/yourusername/netflix-clone.git
-cd netflix-clone
-npm install
-npm start
-```
-🔑 Make sure to add your own TMDB API Key and Firebase config in .env file.
-```
-📁 Project Structure
-lua
-Copy
-Edit
 📂 netflix-clone/
-├── 📁 src/
-│   ├── 📁 components/
-│   ├── 📁 pages/
-│   ├── 📁 assets/
-│   └── App.js
-├── .env
-├── tailwind.config.js
-├── package.json
-└── README.md
-```
-🔐 Environment Variables
-Create a .env file in the root and add:
+├── 📄 index.html
+├── 📄 style.css
+├── 📄 script.js
+└── 📁 assets/ # Images, icons, etc.
 
-env
+yaml
 Copy
 Edit
-REACT_APP_TMDB_KEY=your_tmdb_api_key
-REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
-...
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View Demo](https://your-demo-link.netlify.app)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/ajaykuraparthi/netflix-clone.git
+Navigate into the folder
+```
+
+cd netflix-clone
+Open in your browser
+
+bash
+Copy
+Edit
+open index.html
+💡 You can also use Live Server in VS Code for a better development experience.
 
 
-🤝 Credits:
-API: TMDB
+🙌 Credits
+🎨 Inspired by Netflix
 
-Auth & DB: Firebase
-
-UI Inspiration: Netflix
-
-📜 License
-MIT © 2025 Your Name
-
-📬 Contact:
-
-Got suggestions or need help? Feel free to reach out:
-
-📧 Email: kuraparthiajay@example.com
-
-💼 LinkedIn: ajaykuraparthi
+🖼️ Images from Unsplash / TMDB
 
 
 
+📬 Connect
+💼 LinkedIn: linkedin.com/in/yourprofile
 
-
-
-
-
-
+🐙 GitHub: github.com/yourusername
